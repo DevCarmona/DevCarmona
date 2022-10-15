@@ -1,4 +1,5 @@
 ## Bem-vindo(a) ao perfil do Andre da Silva Carmona ou DevCarmona 😁
+<p>Estou estudando as linguagens HTML5, CSS3 e JavaScript.</p>
 
  <div>
    <a href="https://github.com/DevCarmona">
